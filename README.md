@@ -1,2 +1,0 @@
-# socoShop
-new job
